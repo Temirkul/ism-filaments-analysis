@@ -25,7 +25,7 @@ def generate_dataset(
     output_dir = f"data/Rects/{img_width}_{img_height}_{min_filaments}_{max_filaments}_{vmin}_{vmax}_{rect_noise_num}_{rect_noise_scale_factor}rects_{num_images}"
 
     if os.path.isdir(output_dir) == False:
-        os.mkdir(output_dir)
+        os.makedirs(output_dir)
         os.mkdir(
             f"data/Rects/{img_width}_{img_height}_{min_filaments}_{max_filaments}_{vmin}_{vmax}_{rect_noise_num}_{rect_noise_scale_factor}rects_{num_images}/imgs"
         )
