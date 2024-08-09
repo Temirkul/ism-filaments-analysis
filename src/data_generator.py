@@ -47,13 +47,19 @@ def generate_dataset(
         fig1, ax1 = plt.subplots(
             nrows=1,
             ncols=1,
-            figsize=((img_width + 76) / my_dpi, (img_height + 77) / my_dpi),
+            figsize=(
+                (img_width + 75) / my_dpi,
+                (img_height + 77) / my_dpi,
+            ),  # the images should be 256 x 256
             dpi=my_dpi,
         )
         fig2, ax2 = plt.subplots(
             nrows=1,
             ncols=1,
-            figsize=((img_width + 75) / my_dpi, (img_height + 77) / my_dpi),
+            figsize=(
+                (img_width + 75) / my_dpi,
+                (img_height + 77) / my_dpi,
+            ),  # the masks should be 256 x 256
             dpi=my_dpi,
         )
         ax1.set_xlim(0, img_width)
