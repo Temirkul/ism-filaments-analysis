@@ -15,7 +15,7 @@ class ImagesAndMasksDataset(Dataset):
         binary_mask: bool = False,
         desired_h: int = 256,
         desired_w: int = 256,
-        normalize_images: bool = False,
+        normalize_images: bool = True,
     ):
         self.image_dir = image_dir
         self.mask_dir = mask_dir
