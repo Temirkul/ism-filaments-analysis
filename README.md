@@ -3,3 +3,6 @@ This repo is dedicated to the analysis of filamentary structures in the interste
 
 # Installation and setup
 Create an environment with python 3.11.x and install the dependencies via ```pip install -r requirements.txt``` if you're on windows and ```pip install -r requirements_ubuntu.txt``` if you're on ubuntu.
+
+# Contact info
+If you have any questions or if something isn't working for you, please feel free to contact me by email: temirkule@gmail.com
