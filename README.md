@@ -6,6 +6,7 @@ Create an environment with python 3.11.x and install the dependencies via ```pip
 
 # Model weights
 You can find the model weights at this link: [https://drive.google.com/file/d/1IDYy6iMepXgIoE8UwtPBHt-R2e3lvCQm/view?usp=sharing](https://drive.google.com/file/d/1IDYy6iMepXgIoE8UwtPBHt-R2e3lvCQm/view?usp=sharing)
+
 In case the link doesn't work, please don't hesitate to contact me.
 
 # Contact info
