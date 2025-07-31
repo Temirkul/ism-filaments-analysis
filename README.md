@@ -4,5 +4,9 @@ This repo is dedicated to the analysis of filamentary structures in the interste
 # Installation and setup
 Create an environment with python 3.11.x and install the dependencies via ```pip install -r requirements.txt``` if you're on windows and ```pip install -r requirements_ubuntu.txt``` if you're on ubuntu.
 
+# Model weights
+You can find the model weights at this link: [https://drive.google.com/file/d/1IDYy6iMepXgIoE8UwtPBHt-R2e3lvCQm/view?usp=sharing](https://drive.google.com/file/d/1IDYy6iMepXgIoE8UwtPBHt-R2e3lvCQm/view?usp=sharing)
+In case the link doesn't work, please don't hesitate to contact me.
+
 # Contact info
 If you have any questions or if something isn't working for you, please feel free to contact me by email: temirkule@gmail.com
