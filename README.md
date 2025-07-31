@@ -11,3 +11,9 @@ In case the link doesn't work, please don't hesitate to contact me.
 
 # Contact info
 If you have any questions or if something isn't working for you, please feel free to contact me by email: temirkule@gmail.com
+
+
+
+
+[![DOI](https://zenodo.org/badge/840023687.svg)](https://doi.org/10.5281/zenodo.16647868)
+
