@@ -17,3 +17,4 @@ If you have any questions or if something isn't working for you, please feel fre
 
 [![DOI](https://zenodo.org/badge/840023687.svg)](https://doi.org/10.5281/zenodo.16647868)
 
+Paper DOI: [https://doi.org/10.3847/1538-3881/adf858](https://doi.org/10.3847/1538-3881/adf858)
